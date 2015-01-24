@@ -22,8 +22,6 @@ int c3;
 int flag;
 
 PFont mono;
-// The font "AndaleMono-48.vlw"" must be located in the 
-// current sketch's "data" directory to load successfully
 
 Minim minim;
 AudioInput in;
